@@ -42,18 +42,18 @@ elif inp == 2 :
     inp = print("\nVolume Balok = " , volume , "cm3")
     print("-------------------------------------------------")
 
-# elif inp == 3 :
-#     print("Anda Memilih : Prisma Segitiga")
+elif inp == 3 :
+    print("Anda Memilih : Prisma Segitiga")
 
-#     tinggiprisma = int(input("\nNilai Tinggi Prisma (cm) = "))
-#     tinggisegitiga = int(input("\nNilai Tinggi Segitiga (cm) = "))
-#     alassegitiga = int(input("\nNilai Alas Segitiga (cm) = "))
-#     print("\n ")
-#     print("-------------------------------------------------")
-#     volume = (1/2 * alassegitiga * tinggisegitiga) * tinggiprisma
-#     print("Hasil : ")
-#     inp = print("\nVolume Prisma Segitiga = " , volume , "cm3")
-#     print("-------------------------------------------------")
+    tinggiprisma = int(input("\nNilai Tinggi Prisma (cm) = "))
+    tinggisegitiga = int(input("\nNilai Tinggi Segitiga (cm) = "))
+    alassegitiga = int(input("\nNilai Alas Segitiga (cm) = "))
+    print("\n ")
+    print("-------------------------------------------------")
+    volume = (1/2 * alassegitiga * tinggisegitiga) * tinggiprisma
+    print("Hasil : ")
+    inp = print("\nVolume Prisma Segitiga = " , volume , "cm3")
+    print("-------------------------------------------------")
 
 
 print("\n")
